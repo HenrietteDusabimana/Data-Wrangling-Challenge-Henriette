@@ -5,8 +5,8 @@ Name: Henriette Dusabimana
 
 Expected outcome: git repository with dataset and script
 
-This is the link to the ipynb google file: https://drive.google.com/file/d/1NjQJX0q3dWfXERUyxFA6ErNyEgWdlCSw/view?usp=sharing
-Open it using Colaboratively
+This is the link to the ipynb google file in order to view the the plots that have some insights: https://drive.google.com/file/d/1NjQJX0q3dWfXERUyxFA6ErNyEgWdlCSw/view?usp=sharing
+Open it using Colaboratory.
 
 Subimission data: 15th July 2021
 
